@@ -29,3 +29,16 @@ $ sudo apt update
 $ sudo apt install gtkwave
 ```
 <img width="1008" alt="gtkwave1" src="https://github.com/adiyeole/sfal-vsd/blob/main/Screenshot%20from%202025-09-20%2013-34-39.png">
+
+
+## magic
+```
+sudo apt-get install m4
+  955  sudo apt-get install tcsh
+  956  sudo apt-get install csh
+  957  sudo apt-get install libx11-dev
+  958  sudo apt-get install tcl-dev tk-dev
+  959  sudo apt-get install libcairo2-dev 
+  960  sudo apt-get install mesa-common-dev libglu1-mesa-dev
+
+```
