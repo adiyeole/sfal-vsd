@@ -14,7 +14,7 @@ $ sudo apt-get install build-essential clang bison flex \
     libboost-python-dev libboost-filesystem-dev zlib1g-dev
 $ make 
 $ sudo make install```
-<img width="1008" alt="gtkwave1" src="https://github.com/adiyeole/sfal-vsd/blob/main/Screenshot%20from%202025-09-20%2013-34-39.png">
+
 
 
 
@@ -24,3 +24,4 @@ $ sudo make install```
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
+<img width="1008" alt="gtkwave1" src="https://github.com/adiyeole/sfal-vsd/blob/main/Screenshot%20from%202025-09-20%2013-34-39.png">
