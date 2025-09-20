@@ -16,8 +16,11 @@ $ make
 $ sudo make install```
 
 
-
-
+## Iverilog
+```
+$ sudo apt-get install iverilog
+```
+<img width="1008" alt="gtkwave1" src="https://github.com/adiyeole/sfal-vsd/blob/main/Screenshot%20from%202025-09-20%2013-44-53.png">
 
 ## GTKWave
 ```
