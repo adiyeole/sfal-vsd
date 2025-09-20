@@ -34,7 +34,19 @@ $ sudo apt install gtkwave
 
 ## ngspice
 ```
-$ sudo apt-get install iverilog
+$ sudo apt-get install m4
+$ sudo apt-get install tcsh
+$ sudo apt-get install csh
+$ sudo apt-get install libx11-dev
+$ sudo apt-get install tcl-dev tk-dev
+$ sudo apt-get install libcairo2-dev
+$ sudo apt-get install mesa-common-dev libglu1-mesa-dev
+$ sudo apt-get install libncurses-dev
+git clone https://github.com/RTimothyEdwards/magic
+cd magic
+./configure
+make
+make install 
 ```
 <img width="1008" alt="iverilog" src="https://github.com/adiyeole/sfal-vsd/blob/main/Screenshot%20from%202025-09-20%2014-49-29.png">
 ## magic
