@@ -49,6 +49,7 @@ make
 make install 
 ```
 <img width="1008" alt="iverilog" src="https://github.com/adiyeole/sfal-vsd/blob/main/Screenshot%20from%202025-09-20%2014-49-29.png">
+
 ## magic
 ```
 sudo apt-get install m4
