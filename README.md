@@ -42,3 +42,5 @@ sudo apt-get install m4
   960  sudo apt-get install mesa-common-dev libglu1-mesa-dev
 
 ```
+
+<img width="1008" alt="magic" src="https://github.com/adiyeole/sfal-vsd/blob/main/Screenshot%20from%202025-09-20%2014-33-25.png">
